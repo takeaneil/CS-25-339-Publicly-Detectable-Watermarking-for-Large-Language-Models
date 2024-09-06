@@ -20,7 +20,7 @@ a better understanding of the problems you encountered during the development of
 - *Mentor's Name*  - *Company Affliation* - Mentor
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
 - *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Neil Inge* - *CS* - Student Team Member
+- *Waleed Elbanna* - *CS* - Student Team Member
+- *Joe Hughes* - *CS* - Student Team Member
+- *Ronit Sharma* - *CS* - Student Team Member
